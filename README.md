@@ -11,8 +11,9 @@ Key objectives:
 
 ---
 
-## 📂 Dataset
-Due to GitHub’s 100 MB file limit, the full dataset is stored in Google Drive:  
-**[📥 Download Dataset from Google Drive]([https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing](https://drive.google.com/drive/folders/1oRjJXjZQhK1HIW7V3r4gXMyBxiscOnlP?usp=sharing))**
+## 📂 Dataset Access
+The full dataset is too large to upload directly to GitHub (exceeds 100 MB limit).  
+You can access all CSV files, analysis notebooks, and related data here:  
+**[📥 Access Complete Dataset & Files on Google Drive](https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing)**
 
 ---
