@@ -11,9 +11,10 @@ Key objectives:
 
 ---
 
-## 📂 Dataset Access
-The full dataset is too large to upload directly to GitHub (exceeds 100 MB limit).  
-You can access all CSV files, analysis notebooks, and related data here:  
-**[📥 Access Complete Dataset & Files on Google Drive]([[https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing](https://drive.google.com/drive/folders/1oRjJXjZQhK1HIW7V3r4gXMyBxiscOnlP?usp=sharing)](https://drive.google.com/drive/u/0/folders/1oRjJXjZQhK1HIW7V3r4gXMyBxiscOnlP))**
+## 📂 Project Files and Data
+
+You can access all the project files, datasets, and supplementary materials in the following Google Drive folder:
+
+[**Trader Performance vs Market Sentiment Analysis - Project Files**](https://drive.google.com/drive/folders/1oRjJXjZQhK1HIW7V3r4gXMyBxiscOnlP?usp=sharing)
 
 ---
